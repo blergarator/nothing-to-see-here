@@ -1,0 +1,22 @@
+*.py[cod]
+*.pyc
+*.csv
+*.json
+
+
+# virtualenv
+/bin
+/include
+/lib
+/share
+/man
+
+# local settings
+local_settings.py
+settings.json
+endpoints.py
+
+
+# IDE
+/.idea
+/.Python
