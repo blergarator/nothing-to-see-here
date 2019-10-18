@@ -11,7 +11,7 @@ peewee==2.4.4
 python-dateutil==2.2
 pytz==2014.10
 redis==2.10.3
-requests==2.5.0
+requests==2.20.0
 six==1.8.0
 supervisor==3.0
 tornado==3.2
