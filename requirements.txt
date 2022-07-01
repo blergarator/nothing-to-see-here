@@ -13,7 +13,7 @@ pytz==2014.10
 redis==2.10.3
 requests==2.5.0
 six==1.8.0
-supervisor==3.0
+supervisor==3.0.1
 tornado==3.2
 urllib3==1.9.1
 wsgiref==0.1.2
